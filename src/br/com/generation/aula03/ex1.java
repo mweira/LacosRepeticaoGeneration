@@ -1,4 +1,4 @@
-package aula03;
+package br.com.generation.aula03;
 
 public class ex1 {
 
